@@ -1,2 +1,2 @@
 # Attendance_Management
-Employees attendance management
+Employees attendance management using biometrics
